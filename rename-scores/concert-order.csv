@@ -1,0 +1,114 @@
+Score,score
+Full score,score
+Transposed Score,score
+C Score,Cscore
+Score in C,Cscore
+Piccolo,picc
+Flute,fl
+Flute 1,fl1
+Flute 2,fl2
+Flute 2 (+ picc.),fl2+picc
+Flute 2 (+ piccolo),fl2+picc
+Flute 3,fl3
+Flute 3 (+ picc.),fl3+picc
+Flute 3 (+ piccolo),fl3+picc
+Oboe,ob
+Oboe 1,ob1
+Oboe 2,ob2
+Oboe 3,ob3
+English Horn,ehn
+Clarinet,cl
+A Clarinet,cl
+Bb Clarinet,cl
+Clarinet 1,cl1
+A Clarinet 1,cl1
+Clarinet 1 in A,cl1
+Bb Clarinet 1,cl1
+Clarinet 1 in Bb,cl1
+Clarinet 2,cl2
+A Clarinet 2,cl2
+Clarinet 2 in A,cl2
+Bb Clarinet 2,cl2
+Clarinet 2 in Bb,cl2
+Clarinet 3,cl3
+A Clarinet 3,cl3
+Clarinet 3 in A,cl3
+Bb Clarinet 3,cl3
+Clarinet 3 in Bb,cl3
+Eb Clarinet,ebcl
+Bass Clarinet,bscl
+Bb Bass Clarinet,bscl
+Alto Sax 1,asx1
+Eb Alto Sax 1,asx1
+Alto Saxophone 1,asx1
+Eb Alto Saxophone 1,asx1
+Alto Sax 2,asx2
+Eb Alto Sax 2,asx2
+Alto Saxophone 2,asx2
+Eb Alto Saxophone 2,asx2
+Tenor Sax,tsx
+Bb Tenor Sax,tsx
+Tenor Saxophone,tsx
+Bb Tenor Saxophone,tsx
+Bari Sax,bsx
+Eb Bari Sax,bsx
+Baritone Sax,bsx
+Eb Baritone Sax,bsx
+Baritone Saxophone,bsx
+Eb Baritone Saxophone,bsx
+Bassoon,bsn
+Bassoon 1,bsn1
+Bassoon 2,bsn2
+Contrabassoon,cbsn
+French Horn,hn
+F Horn,hn
+Horn,hn
+Horn 1,hn1
+F Horn 1,hn1
+Horn 2,hn2
+F Horn 2,hn2
+Horn 3,hn3
+F Horn 3,hn3
+Horn 4,hn4
+F Horn 4,hn4
+Bb Trumpet,tpt
+C Trumpet,tpt
+Trumpet,tpt
+Trumpet 1,tpt1
+Bb Trumpet 1,tpt1
+C Trumpet 1,tpt1
+Trumpet 2,tpt2
+Bb Trumpet 2,tpt2
+C Trumpet 2,tpt2
+Trumpet 3,tpt3
+Bb Trumpet 3,tpt3
+C Trumpet 3,tpt3
+Trombone,tbn
+Trombone 1,tbn1
+Trombone 2,tbn2
+Trombone 3,tbn3
+Trombone 3 (bass),tbn3
+Bass Trombone,bstbn
+Tuba,tba
+Timpani,timp
+Bass Drum,bsdrum
+Glockenspiel,glock
+Percussion,perc
+Percussion 1,perc1
+Percussion 1 (Vibraphone),perc1
+Percussion 2,perc2
+Percussion 3,perc3
+Harp,hp
+Celesta,cel
+Piano,pno
+Choir,chr
+Violin,vln
+Violin I,vln1
+Violin 1,vln1
+Violin II,vln2
+Violin 2,vln2
+Viola,vla
+Violoncello,vc
+Cello,vc
+Double Bass,db
+Contrabass,cb
