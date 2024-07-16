@@ -7,17 +7,17 @@ File renaming tool for Dorico, Finale, Sibelius
 
 ## Running Instructions:
 
-Run file rename-scores.cmd by doubleclicking on it. \n
-Enter the folder name of the files to be renamed, the folder must be in the 'rename-scores' folder. \n
-Enter the version number. \n
-The program will prompt you to choose whether to proceed with the changes or not. \n
+Run file rename-scores.cmd by doubleclicking on it. 
+Enter the folder name of the files to be renamed, the folder must be in the 'rename-scores' folder. 
+Enter the version number. 
+The program will prompt you to choose whether to proceed with the changes or not. 
 
--edit the csv file to add more instruments and abbreviations \n
--all files in the folder must be the same format (Dorico, Finale, or Sibelius) \n
+-edit the csv file to add more instruments and abbreviations 
+-all files in the folder must be the same format (Dorico, Finale, or Sibelius) 
 
-Outputs: \n
-	Folder path: The path of the folder \n
-	Program: The format of the file names \n
-	Title: The title of the project \n
-	The files that will be renamed. \n
+Outputs: 
+	Folder path: The path of the folder 
+	Program: The format of the file names 
+	Title: The title of the project 
+	The files that will be renamed. 
 	The files that will not be renamed.
